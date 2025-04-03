@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I’m Feyze Malik 👋
+  
+🎓 BEng Mechatronic Engineering Student | Aspiring Engineer & Developer  
+💡 Passionate about **programming, automation, and solving problems**  
+  
+🚀 **Currently expanding my skillset:**  
+- Experienced in **Delphi & SQL**  
+- Learning **Python, C, and JavaScript**  
+- Exploring **software-hardware integration for engineering solutions**  
 
-<!--
-**Feyze55/Feyze55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 **Looking for opportunities** to gain hands-on experience in **software development, automation, and embedded systems**.  
+⚙️ **Future goal:** To work with machines and the software controlling them, implementing real-world solutions as an engineer.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Always learning & experimenting with new technologies!  
