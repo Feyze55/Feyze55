@@ -5,11 +5,9 @@
 
 🚀 **Currently expanding my skillset:**
 
-Proficient in **Delphi & SQL**
-
-Learning **C#, C, and JavaScript**
-
-Exploring **software-hardware integration** through my engineering studies
+- Proficient in **Delphi & SQL**
+- Learning **C#, C, and JavaScript**
+- Exploring **software-hardware integration** through my engineering studies
 
 
 🔍 **Always looking for opportunities** to gain hands-on experience in **software development and embedded systems**
